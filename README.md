@@ -1,23 +1,21 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I'm currently working on different projects like web apps, mobile apps and machine learning to be able to expand my knowledge and also to get experience on things I did not try it before probably because I was too scare or I was not that confident on my skills as a programmer.
 
-{Provide a description of your software}
+I am currently working on a macbook pro and using visual studio code as my main IDE. But I have experience using rider, pycharm, atom, arduino IDE, Jupyter Notebook and AWS Cloud9.
 
-{Describe your purpose for creating this software.}
+This is a Hello World Program using python:
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=g2ylNxS-SyQ)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
+* Visual Studio Code
+* Python 3.11.3
+* Git/GitHub
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Visual Studio Code](https://code.visualstudio.com/download)
+* [Download Python](https://www.python.org/downloads/)
+* [My Github](https://github.com/frankBYUI1?tab=repositories)
